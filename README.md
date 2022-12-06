@@ -6,3 +6,5 @@ Scripts:
 - main.ipynb, here there are: Finding Similar Costumers, Grouping customers together! and the Algorithmic Question.
 
 - commandline.sh 
+
+- banknew.zip conteins the dataset we use in Finding Similar Costumers.
